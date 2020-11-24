@@ -1,0 +1,6 @@
+framework module Pods_CodeBase2_CodeBase2UITests {
+  umbrella header "Pods-CodeBase2-CodeBase2UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
